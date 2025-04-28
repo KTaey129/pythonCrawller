@@ -33,4 +33,4 @@ A simple Python web scraper that collects the latest news headlines from [Hacker
 | Example News Title 2 | https://example.com/2 |
 
 ## when executed
-![news_scraper result](./images/result.png)
+![news_scraper result](./result.png)
