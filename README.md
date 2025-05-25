@@ -1,4 +1,4 @@
-# News Scraper 📰
+# News Scraper & 2 projects
 
 A simple Python web scraper that collects the latest news headlines from [Hacker News](https://news.ycombinator.com/) and saves them to a CSV file.
 
@@ -34,3 +34,9 @@ A simple Python web scraper that collects the latest news headlines from [Hacker
 
 ## when executed
 ![news_scraper result](./result.png)
+
+# 1st Project - Flight ticket Crawler
+
+the "dataservice" folder
+
+# 2nd Project - Multi-Exchange Trading System
